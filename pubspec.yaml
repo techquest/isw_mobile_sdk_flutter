@@ -25,7 +25,7 @@ dependencies:
   cupertino_icons: ^0.1.2
 
   # add the dependency for sdk
-  isw_mobile_sdk: '1.0.0-5.4'
+  isw_mobile_sdk: '1.0.0-5.5'
 
 dev_dependencies:
   flutter_test:
