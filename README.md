@@ -152,4 +152,7 @@ And that is it, you can start processing payment in your flutter app.
 ## Note
 The Android Platform might have build exceptions, showing dexing issues, and you would need to enable [Multidexing](https://developer.android.com/studio/build/multidex) to build successfully. You can take a look at the `Application` class in the android project, for reference.
 
+## Proguard Rules
+Check here for the proguard rules for when you want to build a release version. 
+https://github.com/techquest/isw-mobile-payment-sdk-android?tab=readme-ov-file#proguard
 
